@@ -15,7 +15,7 @@
 /************************ Adafruit IO Config *******************************/
 // visit io.adafruit.com if you need to create an account, or if you need your Adafruit IO key.
 #define IO_USERNAME "Maker_Gavin"
-#define IO_KEY "aio_beBL08QUXWTBF53eREKhOxg6awPH"
+#define IO_KEY "aio_beBL08QUXWTBF53eREKhO***"
 AdafruitIO_Ethernet io(IO_USERNAME, IO_KEY);
 // set up the 'counter' feed
 AdafruitIO_Feed *tof_feed = io.feed("3D Laser Radar Tower");
